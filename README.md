@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi folks 👋
 
 <!--
 **olivervaz/olivervaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<img src="https://myreadme.vercel.app/api/embed/olivervaz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
